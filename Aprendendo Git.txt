@@ -1,0 +1,6 @@
+1 - gitinit na pasta que vai para o github.
+2 - git remote add origin "link do repositório do github"
+3 - git branch -M main
+4 - git add "nome do arquivo"
+5 - git commit -m "Comentário atualizando o arquivo"
+6 - git push -u origin main
